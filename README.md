@@ -116,13 +116,6 @@ export default {
 @import "tailwindcss"; in index.css file
 npm run dev
 
----
-
-🌐 Live Demo
-Deployed on Vercel / Render
-Frontend: https://your-app.vercel.app
-Backend: https://your-api.onrender.com
-
 --- 
 📬 Contact
 Dhara Bhatiya
