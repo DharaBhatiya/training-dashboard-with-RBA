@@ -81,7 +81,7 @@ training-dashboard-with-RBA/
 MONGO_URI=your_mongodb_connection_URL
 JWT_SECRET=jwt_secret_key
 PORT=5000
-
+--- 
 ## Setup Instructions
 
 -- Backend Setup & Installation
@@ -116,16 +116,14 @@ export default {
 @import "tailwindcss"; in index.css file
 npm run dev
 
-🖼️ Screenshots
-![image](https://github.com/user-attachments/assets/bff3fd73-cfe7-4516-b481-4dba5a66a535)
-![image](https://github.com/user-attachments/assets/9bdeafa7-6616-4608-8a6f-9d923a859d7e)
-![image](https://github.com/user-attachments/assets/9f474ba2-490a-4d4e-ba19-7fbf0f3efee2)
+---
 
 🌐 Live Demo
 Deployed on Vercel / Render
 Frontend: https://your-app.vercel.app
 Backend: https://your-api.onrender.com
 
+--- 
 📬 Contact
 Dhara Bhatiya
 LinkedIn: https://www.linkedin.com/in/dhara-bhatiya-b2700a262/
