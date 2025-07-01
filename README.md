@@ -41,6 +41,7 @@ A full-stack web application that provides a **Training Management System** for 
 
 ## 📁 Folder Structure
 
+```bash
 training-dashboard-with-RBA/
 │
 ├── Backend/
@@ -50,17 +51,17 @@ training-dashboard-with-RBA/
 │   ├── models/
 │   ├── node_modules/
 │   ├── routes/
-│   ├── .env              # Environment variables (ignored in Git)
+│   ├── .env                 # Environment variables (ignored in Git)
 │   ├── .gitignore
 │   ├── package.json
 │   ├── package-lock.json
-│   └── server.js         # Entry point for Express server
+│   └── server.js            # Entry point for Express server
 │
 ├── Frontend/
 │   ├── node_modules/
 │   ├── public/
 │   ├── src/
-│   ├── .env              # Environment variables (ignored in Git)
+│   ├── .env                 # Environment variables (ignored in Git)
 │   ├── .gitignore
 │   ├── index.html
 │   ├── vite.config.js
@@ -68,10 +69,9 @@ training-dashboard-with-RBA/
 │   ├── eslint.config.js
 │   ├── package.json
 │   ├── package-lock.json
-│   └── README.md         # Frontend README if separated
+│   └── README.md            # Frontend README (if separated)
 │
-└── .gitignore            # Root-level ignore file (optional if mono-repo)
-
+├── .gitignore               # Root-level ignore file (optional if mono-repo)
 
 ---
 
