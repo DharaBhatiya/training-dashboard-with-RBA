@@ -1,0 +1,13 @@
+[{
+  "_id": {
+    "$oid": "6862eb00e8cecb2674da0132"
+  },
+  "traineeId": {
+    "$oid": "68628f1ce0c875ea39fe78db"
+  },
+  "moduleId": {
+    "$oid": "6862e2706e41b1f24b73c889"
+  },
+  "completed": true,
+  "__v": 0
+}]

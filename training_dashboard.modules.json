@@ -1,0 +1,111 @@
+[{
+  "_id": {
+    "$oid": "6862913c6e41b1f24b73c86c"
+  },
+  "userId": {
+    "$oid": "686290e26e41b1f24b73c86b"
+  },
+  "title": "React Basics",
+  "progress": 100,
+  "completed": true
+},
+{
+  "_id": {
+    "$oid": "6862a1deca64ce31c55bd129"
+  },
+  "userId": {
+    "$oid": "686290e26e41b1f24b73c86b"
+  },
+  "title": "Node.js Basics",
+  "progress": 0,
+  "completed": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6862e2706e41b1f24b73c889"
+  },
+  "userId": {
+    "$oid": "6862e1ca56de4ba73c1026ad"
+  },
+  "title": "Node.js Fundamentals",
+  "progress": 0,
+  "completed": false
+},
+{
+  "_id": {
+    "$oid": "6862e3246e41b1f24b73c88b"
+  },
+  "userId": {
+    "$oid": "6862e1ca56de4ba73c1026ad"
+  },
+  "title": "State Management",
+  "progress": 0,
+  "completed": false
+},
+{
+  "_id": {
+    "$oid": "6862e3926e41b1f24b73c88f"
+  },
+  "userId": {
+    "$oid": "6862a58eb71f01c0d1bd7a6e"
+  },
+  "title": "DSA",
+  "progress": 0,
+  "completed": false
+},
+{
+  "_id": {
+    "$oid": "6862e3926e41b1f24b73c890"
+  },
+  "userId": {
+    "$oid": "6862a58eb71f01c0d1bd7a6e"
+  },
+  "title": "Full Stack",
+  "progress": 0,
+  "completed": false
+},
+{
+  "_id": {
+    "$oid": "6862e3926e41b1f24b73c891"
+  },
+  "userId": {
+    "$oid": "6862a58eb71f01c0d1bd7a6e"
+  },
+  "title": "Python",
+  "progress": 0,
+  "completed": false
+},
+{
+  "_id": {
+    "$oid": "6862e3d16e41b1f24b73c895"
+  },
+  "userId": {
+    "$oid": "68628f1ce0c875ea39fe78db"
+  },
+  "title": "ERPNext",
+  "progress": 0,
+  "completed": false
+},
+{
+  "_id": {
+    "$oid": "6862e3d16e41b1f24b73c896"
+  },
+  "userId": {
+    "$oid": "68628f1ce0c875ea39fe78db"
+  },
+  "title": "Full Stack",
+  "progress": 0,
+  "completed": false
+},
+{
+  "_id": {
+    "$oid": "6862e3d16e41b1f24b73c897"
+  },
+  "userId": {
+    "$oid": "68628f1ce0c875ea39fe78db"
+  },
+  "title": "Django",
+  "progress": 0,
+  "completed": false
+}]

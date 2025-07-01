@@ -1,0 +1,70 @@
+[{
+  "_id": {
+    "$oid": "68628ec4e0c875ea39fe78d8"
+  },
+  "name": "John Doe",
+  "email": "john@example.com",
+  "password": "$2b$10$uTCa6piqKWHppvHlcs1m.OJMkWUGkin3RaeV/1GrpGnVV2nYPf2PS",
+  "role": "instructor",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68628f1ce0c875ea39fe78db"
+  },
+  "name": "user",
+  "email": "user@gmail.com",
+  "password": "$2b$10$PxSb.LTTb8FshYJNVgd2n.H.lw1/6EDAHp04VMe526FSyr7Bk9owa",
+  "role": "trainee",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68628f2ee0c875ea39fe78de"
+  },
+  "name": "user1",
+  "email": "user1@gmail.com",
+  "password": "$2b$10$VeOTu9G2zduYScm.SxepZ.sXMHKynPo8hzj1pTiljlpI2FiH1GiO.",
+  "role": "trainee",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68628f51e0c875ea39fe78e1"
+  },
+  "name": "John4",
+  "email": "john1@example.com",
+  "password": "John4@123",
+  "role": "instructor",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6862a58eb71f01c0d1bd7a6e"
+  },
+  "name": "test1",
+  "email": "test1@example.com",
+  "password": "$2b$10$LhGohXm8/B7k8X3x4V2WN.PNPNftSxuBmGZ5Ek6/jZr6VPV7bL4Qe",
+  "role": "instructor",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6862e1ca56de4ba73c1026ad"
+  },
+  "name": "Dhara",
+  "email": "dhara@gmail.com",
+  "password": "$2b$10$qTrdpIWrEHX5Xwg8ugHSK.n1ZiYBxqhRIP7WqcF5wkqpddJrEqbwG",
+  "role": "instructor",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6862ebf530a72845e23b1b9f"
+  },
+  "name": "bhatiya",
+  "email": "bhatiya@gmail.com.com",
+  "password": "$2b$10$yJj82va3MRZvPIwmbrn9buxqQ/0EhSzuIILb3LqRTIXOmDQTn/rW2",
+  "role": "trainee",
+  "__v": 0
+}]
