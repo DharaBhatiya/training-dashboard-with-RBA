@@ -75,7 +75,7 @@ training-dashboard-with-RBA/
 
 ---
 
-## 🔐 Environment Variables
+### 🔐 Environment Variables
 -- Create `.env` file with the following:
 ```env
 MONGO_URI=your_mongodb_connection_URL
